@@ -36,7 +36,7 @@ Week | Title | Activity | Date | Time | Materials | Trainer
 
 ### References
 
-- Data Science in Python by Data Science Academy at AstraZeneca - [June-July 2020 course](https://github.com/semacu/data-science-python)
+- Data Science in Python by Data Science Academy at AstraZeneca - [June-July 2020 course](https://github.com/semacu/data-science-python) and [January-February 2021 course](https://github.com/semacu/202101-data-science-python)
 - The University of Cambridge [Introduction to Python course](https://github.com/pycam/python-basic)
 - The University of Cambridge [Data Science in Python course](https://github.com/pycam/python-data-science)
 - Data Carpentry [Python lessons](https://datacarpentry.org)
