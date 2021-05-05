@@ -19,19 +19,19 @@ Gabriella Rustici, Sergio Martínez Cuesta, Leo Souliotis, Daniel Roythorne, Sam
 Week | Title | Activity | Date | Time | Materials | Trainer
 :---:|:-----:|:--------:|:----:|:----:|:---------:|:-------:
 0 | Getting ready | preparation | before start | before start | [Introduction and installations](notebooks/week0_materials.ipynb) | all
-1 | Troubleshooting software installations | preparation | Mon 10/05/2021 | 3-4pm BST | [Introduction and installations](notebooks/week0_materials.ipynb) | LS
-1 | Basic Python concepts and functions | Lecture | Mon 10/05/2021 | 4-5pm BST | [Materials](notebooks/week1_lecture.ipynb) | SMC
-1 | Basic Python concepts and functions | Recap | Fri 14/05/2021 | 3-4pm BST | Solutions | SMC
-2 | Data handling | Lecture | Mon 17/05/2021 | 4-5pm BST | [Materials](notebooks/week2_lecture.ipynb) | 
-2 | Data handling | Recap | Fri 21/05/2021 | 3-4pm BST | Solutions | 
-3 | Data visualisation | Lecture | Mon 24/05/2021 | 4-5pm BST | [Materials](notebooks/week3_lecture.ipynb) |
-3 | Data visualisation | Recap | Fri 28/05/2021 | 3-4pm BST | Solutions |
-4 | Data analysis and modelling | Lecture | Tue 01/06/2021 | 4-5pm BST | [Materials](notebooks/week4_lecture.ipynb) |
-4 | Data analysis and modelling | Recap | Fri 04/06/2021 | 3-4pm BST | Solutions |
-5 | Introduction to machine learning - part 1 | Lecture | Mon 07/06/2021 | 4-5pm BST | [Materials](notebooks/week5_lecture.ipynb) |
-5 | Introduction to machine learning - part 1 | Recap | Fri 11/06/2021 | 3-4pm BST | Solutions |
-6 | Introduction to machine learning - part 2 | Lecture | Mon 14/06/2021 | 4-5pm BST | [Materials](notebooks/week6_lecture.ipynb) |
-6 | Introduction to machine learning - part 2 | Recap | Fri 18/06/2021 | 3-4pm BST | Solutions |
+1 | Troubleshooting software installations | preparation | Monday 10/05/2021 | 3-4pm BST | [Introduction and installations](notebooks/week0_materials.ipynb) | LS
+1 | Basic Python concepts and functions | Lecture | Monday 10/05/2021 | 4-5pm BST | [Materials](notebooks/week1_lecture.ipynb) | SMC
+1 | Basic Python concepts and functions | Recap | Friday 14/05/2021 | 3-4pm BST | Solutions | SMC
+2 | Data handling | Lecture | Monday 17/05/2021 | 4-5pm BST | [Materials](notebooks/week2_lecture.ipynb) | 
+2 | Data handling | Recap | Friday 21/05/2021 | 3-4pm BST | Solutions | 
+3 | Data visualisation | Lecture | Monday 24/05/2021 | 4-5pm BST | [Materials](notebooks/week3_lecture.ipynb) |
+3 | Data visualisation | Recap | Friday 28/05/2021 | 3-4pm BST | Solutions |
+4 | Data analysis and modelling | Lecture | Tueday 01/06/2021 | 4-5pm BST | [Materials](notebooks/week4_lecture.ipynb) |
+4 | Data analysis and modelling | Recap | Friday 04/06/2021 | 3-4pm BST | Solutions |
+5 | Introduction to machine learning - part 1 | Lecture | Monday 07/06/2021 | 4-5pm BST | [Materials](notebooks/week5_lecture.ipynb) |
+5 | Introduction to machine learning - part 1 | Recap | Friday 11/06/2021 | 3-4pm BST | Solutions |
+6 | Introduction to machine learning - part 2 | Lecture | Monday 14/06/2021 | 4-5pm BST | [Materials](notebooks/week6_lecture.ipynb) |
+6 | Introduction to machine learning - part 2 | Recap | Friday 18/06/2021 | 3-4pm BST | Solutions |
 
 
 ### References
