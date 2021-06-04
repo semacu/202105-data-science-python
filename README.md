@@ -27,11 +27,11 @@ Week | Title | Activity | Date | Time | Materials | Trainer
 3 | Data visualisation | Lecture | Monday 24/05/2021 | 4-5pm BST | [Materials](notebooks/week3_lecture.ipynb) | SMC
 3 | Data visualisation | Recap | Friday 28/05/2021 | 3-4pm BST | [Solutions](notebooks/week3_solution.ipynb) | SMC
 4 | Data analysis and modelling | Lecture | Tuesday 01/06/2021 | 4-5pm BST | [Materials](notebooks/week4_lecture.ipynb) | LS
-4 | Data analysis and modelling | Recap | Friday 04/06/2021 | 3-4pm BST | Solutions | LS
-5 | Introduction to machine learning - part 1 | Lecture | Monday 07/06/2021 | 4-5pm BST | [Materials](notebooks/week5_lecture.ipynb) |
-5 | Introduction to machine learning - part 1 | Recap | Friday 11/06/2021 | 3-4pm BST | Solutions |
-6 | Introduction to machine learning - part 2 | Lecture | Monday 14/06/2021 | 4-5pm BST | [Materials](notebooks/week6_lecture.ipynb) |
-6 | Introduction to machine learning - part 2 | Recap | Friday 18/06/2021 | 3-4pm BST | Solutions |
+4 | Data analysis and modelling | Recap | Friday 04/06/2021 | 3-4pm BST | [Solutions](notebooks/week4_solution.ipynb) | LS
+5 | Introduction to machine learning - part 1 | Lecture | Monday 07/06/2021 | 4-5pm BST | [Materials](notebooks/week5_lecture.ipynb) | DR
+5 | Introduction to machine learning - part 1 | Recap | Friday 11/06/2021 | 3-4pm BST | Solutions | DR
+6 | Introduction to machine learning - part 2 | Lecture | Monday 14/06/2021 | 4-5pm BST | [Materials](notebooks/week6_lecture.ipynb) | DR
+6 | Introduction to machine learning - part 2 | Recap | Friday 18/06/2021 | 3-4pm BST | Solutions | DR
 
 
 ### References
